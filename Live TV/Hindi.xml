@@ -34,7 +34,7 @@
 </item>
 -------------------------------------------------------
 <item>
-<title>9XM - Music</title>
+<title>Music india</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
 <regex>
 <name>url</name>
@@ -67,7 +67,7 @@
 </channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>        
-	<name>[COLOR white]Hindi News[/COLOR]</name>
+	<name>[COLOR Red]Hindi News[/COLOR]</name>
 	<thumbnail></thumbnail>
 	<items>
 -------------------------------------------------------
@@ -111,7 +111,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>        
-	<name>[COLOR white]Hindi Movies[/COLOR]</name>
+	<name>[COLOR Green]Hindi Movies[/COLOR]</name>
 	<thumbnail></thumbnail>
 	<items>
 -------------------------------------------------------
@@ -156,7 +156,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 --------------------------------------------------------
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>        
-	<name>[COLOR white]Hindi Devotional[/COLOR]</name>
+	<name>[COLOR Lime]Hindi Devotional[/COLOR]</name>
 	<thumbnail></thumbnail>
 	<items>
 -------------------------------------------------------
