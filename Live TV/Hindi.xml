@@ -70,6 +70,59 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	<name>[COLOR Red]Hindi News[/COLOR]</name>
 	<thumbnail></thumbnail>
 	<items>
+<item>
+        <title>Aajtak</title>
+        <link>$doregex[url]</link>
+		<regex>
+			<name>url</name>
+			<expres>file:'(.+?)'</expres>
+			<page>http://streams.yupptv.com/freechannelplayer.aspx?id=8</page>
+		</regex>
+<thumbnail>https://yt3.ggpht.com/-ZE5JmiUBlGo/AAAAAAAAAAI/AAAAAAAAAAA/JU-NHnMeaY8/s900-c-k-no/photo.jpg</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+        <title>IBN 7</title>         
+        <link>http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_1_av-b.m3u8?sd=10&play-only=backup&rebase=on live=true</link>
+        <thumbnail>http://upload.wikimedia.org/wikipedia/commons/9/93/IBN7_logo-White_Background.jpg</thumbnail>
+    </item>
+-------------------------------------------------------
+<item>
+	<title>India TV</title>
+	<link>http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/index_1_av-p.m3u8?sd=10&rebase=on</link>
+	<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQtwDjd0xK2bC8u5LPryGTPZgYVThege__A7-qEI0K8W1OSgDI</thumbnail>
+	</item>
+-------------------------------------------------------
+<item>
+	<title>Z News</title>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>file: "([^"]*)</expres>
+	<page>http://zeenews.dittotv.com/?header=no</page>
+	<referer>http://zeenews.india.com/live/</referer>
+	</regex>
+	<thumbnail>http://zns.india.com/zn5/images/logo2013.png</thumbnail>
+	</item>
+-------------------------------------------------------
+<item>
+<title>CNBC Awaaz</title>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[jsonurl]'.replace('\\/','/')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>jsonurl</name>
+	<expres>streaming_url":"(.*?)"</expres>
+	<page>http://wurflcloud.in.com/streaming.php</page>
+	<post>p:CNBCAWAAZ,u:Mozilla%2F5.0+(iPad%3B+CPU+OS+7_0_4+like+Mac+OS+X)+AppleWebKit%2F537.51.1+(KHTML%2C+like+Gecko)+Version%2F7.0+Mobile%2F11B554a+Safari%2F9537.53</post>
+	<referer>http://www.in.com/videos/watchvideo-cnbc-awaaz-1626397.html</referer>
+</regex>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20121113071047/logopedia/images/thumb/7/71/CNBC_Awaaz.png/300px-CNBC_Awaaz.png</thumbnail>
+</item>
+-------------------------------------------------------
 -------------------------------------------------------
 <item>
 <title>Aaj Tak</title>
