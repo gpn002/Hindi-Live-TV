@@ -10,6 +10,32 @@
 
 -------------------------------------------------------
 <item>
+	<title>9XM</title>
+	<link>http://46.249.213.87/iPhone/broadcast/9xm-tablet.3gp/9xm-tablet.3gp-mr655k.m3u8?trackingid=3511520000&amp;os=desktop</link>
+	<thumbnail>http://www.tv14.net/wp-content/uploads/2010/10/9X-Music.jpg</thumbnail>
+	</item>
+-------------------------------------------------------
+<item>
+<title>B4U Music</title>
+<link>http://www.widih.in/thaim3u8/81ff107849124ff389814b0b8816b1ba.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-f5hyhy6Cwyk/UU3r56AKX-I/AAAAAAAAAuU/jRqDukiKugc/s1600/B4U-Music.jpg</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+	<title>Channel V</title>
+	<link>rtmp://cp133304.live.edgefcs.net/live/ swfUrl=http://www.startv.in/flash/liveplayer.swf?cid=8 pageUrl=http://www.startv.in/flash/liveplayer.swf?cid=8 playpath=channelv2@62057 swfVfy=0 live=1 timeout=15</link>
+	<thumbnail>http://1.bp.blogspot.com/--gB1h7TUa68/TtoOyE5s3eI/AAAAAAAABbU/Kl_Et4N5NPY/s400/Channel-V.jpg</thumbnail>
+	</item>
+-------------------------------------------------------
+<item>
+	<title>Zing</title>
+	<link>http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp/zing-tablet.3gp-mr648k.m3u8?trackingid=3171370000&os=desktop</link>
+	<thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/zing-logo-1.jpg</thumbnail>
+	</item>
+</items>
+-------------------------------------------------------
+-------------------------------------------------------
+<item>
 <title>9XM - Music</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
 <regex>
