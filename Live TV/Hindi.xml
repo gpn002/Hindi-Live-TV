@@ -184,6 +184,32 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>http://103.250.10.26/image/contenticons/172369_large</thumbnail>
 </item>
 --------------------------------------------------------
+-------------------------------------------------------
+<item>
+<title>Bhakti Sagar</title>
+<link>http://bshls-i.akamaihd.net/hls/live/217917/bshls/05.m3u8</link>
+<Referer>http://www.bhaktisagartv.com/live-stream/</Referer>
+<thumbnail>http://www.bhaktisagartv.com/images/HD-Logo.png</thumbnail>
+</item>
+-------------------------------------------------------
+	<item>
+		<title>Ishwar TV</title>
+		<link>rtmp://edge-origin.5centscdn.com:1935/ishwartv1/_definst_/cfef4f1f7e3740993778b9909d6d5cc0.sdp swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.ishwar.tv/ live=true</link>
+		<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbUVkJOExskwTA8OJXg2lPUNkoFgq9oMxUzmsoHwKHYjXtZ3QB</thumbnail>
+		</item>
+-------------------------------------------------------
+	<item>
+		<title>Sadhana TV</title>
+		<link>rtmp://edge-origin.5centscdn.com:1935/sadhnatv/_definst_/27bc533e34c1b9689410d2dd2e06f706.sdp swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.sadhna.com/live.html live=true</link>
+		<thumbnail>http://eduworldwideindia.com/images/logo_sadhna.jpg</thumbnail>
+		</item>
+-------------------------------------------------------
+	<item>
+        	<title>Sanskar</title>         
+        	<link>rtmp://50.7.175.252/base2 playpath=dd20.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-natioanl/ token=Vu4KaBzaxa live=1</link>
+        	<thumbnail>http://www.dddirect.info/media/2011/08/Sanskar-TV.jpg</thumbnail>
+    		</item>
+-------------------------------------------------------
 </items>
 </channel>
 --------------------------------------------------------
