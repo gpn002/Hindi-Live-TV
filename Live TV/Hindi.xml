@@ -5,7 +5,7 @@
 
 <channel>        
 	<name>[COLOR yellow]Music TV[/COLOR]</name>
-	<thumbnail></thumbnail>
+	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyOkd8mXwhsDMtc5cgbVZbCyf72mN1EBWO1Hb1TQ-8h8aE6TIiw</thumbnail>
 	<items>
 
 -------------------------------------------------------
@@ -67,11 +67,123 @@
 </channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>        
-	<name>[COLOR white]Nepali Movies[/COLOR]</name>
+	<name>[COLOR white]Hindi News[/COLOR]</name>
 	<thumbnail></thumbnail>
 	<items>
 -------------------------------------------------------
-
+<item>
+<title>Aaj Tak</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=1887&parentId=1041&name=News</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/1887_large</thumbnail>
+</item>
+--------------------------------------------------------
+<item>
+<title>NDTV Hindi</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=4975&parentId=1041&name=News</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/4975_large</thumbnail>
+</item>
+--------------------------------------------------------
+<item>
+<title>ABP News</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=1890&parentId=1041&name=News</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/1890_large</thumbnail>
+</item>
+--------------------------------------------------------
+</items>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>        
+	<name>[COLOR white]Hindi Movies[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+<item>
+<title>B4U Movies</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=181789&parentId=1040&name=Movies</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/181789_large</thumbnail>
+</item>
+--------------------------------------------------------
+<item>
+<title>Manoranjan TV</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=2043&parentId=1040&name=Movies</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/2043_large</thumbnail>
+</item>
+--------------------------------------------------------
+<item>
+<title>Bolywood Blockbuster</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=59414&parentId=1040&name=Movies</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/59414_large</thumbnail>
+</item>
+--------------------------------------------------------
+</items>
+</channel>
+--------------------------------------------------------
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>        
+	<name>[COLOR white]Hindi Devotional[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+<item>
+<title>Astha</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=2038&parentId=1046&name=Devotional</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/2038_large</thumbnail>
+</item>
+--------------------------------------------------------
+<item>
+<title>Sanskar</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=172369&parentId=1046&name=Devotional</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/172369_large</thumbnail>
+</item>
+--------------------------------------------------------
 </items>
 </channel>
 --------------------------------------------------------
