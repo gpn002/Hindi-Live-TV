@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+########################################################
+#
+<channels>
+
+<channel>        
+	<name>[COLOR yellow]Music TV[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+
+-------------------------------------------------------
+<item>
+<title>9XM - Music</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=183640&amp;parentId=0&amp;name=All%20Channels</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/183640_large</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>B4U - Music</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=55469&parentId=1043&name=Music</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/55469_large</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>9XM - Music</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=1897&parentId=1043&name=Music</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/1897_large</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>9XM - Jalawa</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=183647&parentId=1043&name=Music</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/183647_large</thumbnail>
+</item>
+-------------------------------------------------------
+	
+-------------------------------------------------------
+	
+-------------------------------------------------------
+
+-------------------------------------------------------
+</items>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>        
+	<name>[COLOR white]Nepali Movies[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+
+</items>
+</channel>
+--------------------------------------------------------
+</channels>
