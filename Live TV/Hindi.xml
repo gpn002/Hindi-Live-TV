@@ -295,6 +295,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
         	<thumbnail>http://www.dddirect.info/media/2011/08/Sanskar-TV.jpg</thumbnail>
     		</item>
 -------------------------------------------------------
+-------------------------------------------------------
+<item>
+<title>Shemaroo</title>
+<link>$doregex[showyoutube]</link>
+<regex>
+<name>showyoutube</name>
+<expres>$pyFunction:xbmc.executebuiltin('ActivateWindow(10025,&quot;plugin://plugin.video.youtube/channel/UCBOmfqgTZi7yDp4-3Lr_3lA/&quot;,return)')</expres>
+<page></page>
+</regex>
+</item>
+-------------------------------------------------------
 </items>
 </channel>
 --------------------------------------------------------
