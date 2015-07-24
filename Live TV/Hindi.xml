@@ -4,7 +4,7 @@
 <channels>
 
 <channel>        
-	<name>[COLOR yellow]Music TV[/COLOR]</name>
+	<name>[COLOR Red]Best Quality Bollywood Movies[/COLOR]</name>
 	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyOkd8mXwhsDMtc5cgbVZbCyf72mN1EBWO1Hb1TQ-8h8aE6TIiw</thumbnail>
 	<items>
 -------------------------------------------------------
@@ -76,9 +76,19 @@
 
 
 
+-------------------------------------------------------
+	
+-------------------------------------------------------
 
+-------------------------------------------------------
+</items>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channel>        
+	<name>[COLOR yellow]Music TV[/COLOR]</name>
+	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyOkd8mXwhsDMtc5cgbVZbCyf72mN1EBWO1Hb1TQ-8h8aE6TIiw</thumbnail>
+	<items>
 
 <item>
 	<title>9XM</title>
