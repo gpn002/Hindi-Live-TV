@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+########################################################
+#
+<channels>
+<channel>        
+	<name>[COLOR Red]Best Quality Bollywood Movies[/COLOR]</name>
+	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyOkd8mXwhsDMtc5cgbVZbCyf72mN1EBWO1Hb1TQ-8h8aE6TIiw</thumbnail>
+	<items>
+-------------------------------------------------------
+<item>
+<title>Tevar - 2015</title>
+<link>http://movieshls001-a.erosnow.com/hls/movie/3/1007993/fulllength/6172191/1007993_6172191_IPAD_SD_NEW_multi.m3u8</link>
+      <thumbnail>http://images004-a.erosnow.com/music/3/1008483/img145145/6178395/1008483_6178395_100.jpg</thumbnail>
+</item>
+-------------------------------------
+<item>
+<title>Main Tera Hero - 2014</title>
+<link>http://movieshls001-a.erosnow.com/hls/movie/5/1005585/fulllength/6135664/1005585_6135664_IPAD_SD_NEW_multi.m3u8</link>
+      <thumbnail>http://images004-a.erosnow.com/movie/5/1005585/img145210/6130529/1005585_6130529_10.jpg</thumbnail>
+</item>
+-------------------------------------
+<item>
+<title>Ragini MMS 2 - 2014</title>
+<link>http://movieshls001-a.erosnow.com/hls/movie/3/1010993/fulllength/6184434/1010993_6184434_IPAD_SD_NEW_multi.m3u8</link>
+<thumbnail>http://www.ourvadodara.com/wp-content/uploads/2014/03/Ragini_MMS_2_Poster.jpg</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>Kuku Mathur Ki Jhand Ho Gayi - 2014</title>
+<link>http://movieshls001-a.erosnow.com/hls/movie/9/1007069/fulllength/6161966/1007069_6161966_IPAD_SD_NEW_multi.m3u8</link>
+      <thumbnail>http://images.mid-day.com/images/2014/jul/05-kuku-mathur-2.jpg</thumbnail>
+</item>
+-------------------------------------
+<item>
+<title>Dabangg 2 - 2012</title>
+<link>http://movieshls001-a.erosnow.com/hls/movie/1/1004911/fulllength/6110210/1004911_6110210_IPAD_SD_NEW_multi.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/93/DABANGG_2_Poster.jpg/220px-DABANGG_2_Poster.jpg</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>Agent Vinod - 2012</title>
+<link>http://movieshls001-a.erosnow.com/hls/movie/4/1004474/fulllength/6091393/1004474_6091393_IPAD_SD_NEW_multi.m3u8</link>
+      <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Agent_Vinod_2.jpg/220px-Agent_Vinod_2.jpg</thumbnail>
+</item>
+-------------------------------------
+<item>
+<title>Ra. One - 2011</title>
+<link>http://movieshls001-a.erosnow.com/hls/movie/5/1000635/fulllength/6168496/1000635_6168496_IPAD_SD_NEW_multi.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Ra.Oneposter.jpg/220px-Ra.Oneposter.jpg</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>Rockstar - 2011</title>
+<link>http://movieshls001-a.erosnow.com/hls/movie/7/1000637/fulllength/1000637/1000637_1000637_IPAD_SD_NEW_multi.m3u8</link>
+      <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Rockstar-Movie-Poster.jpg/220px-Rockstar-Movie-Poster.jpg</thumbnail>
+</item>
+-------------------------------------
+<item>
+<title>Kambakkht-Ishq - 2009</title>
+<link>http://movieshls001-a.erosnow.com/hls/movie/5/1000325/fulllength/1000325/1000325_1000325_IPAD_SD_NEW_multi.m3u8</link>
+<thumbnail>http://images004-a.erosnow.com/music/5/1004535/img145145/6091564/1004535_6091564_36.jpg</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>Love Aaj Kal - 2009</title>
+<link>http://movieshls001-a.erosnow.com/hls/movie/8/1000378/fulllength/1000378/1000378_1000378_IPAD_SD_NEW_multi.m3u8</link> 
+<thumbnail>http://images004-a.erosnow.com/music/4/1004534/img145145/6091561/1004534_6091561_60.jpg</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>Main Hoon Naa - 2004</title>
+<link>http://movieshls001-a.erosnow.com/hls/movie/4/1004584/fulllength/6094115/1004584_6094115_IPAD_SD_NEW_multi.m3u8</link>
+      <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Poster_mainhoonna.jpg/220px-Poster_mainhoonna.jpg</thumbnail>
+</item>
+-------------------------------------
+-------------------------------------------------------
+	
+-------------------------------------------------------
+-------------------------------------------------------
+</items>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>        
+	<name>[COLOR yellow]Music TV[/COLOR]</name>
+	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyOkd8mXwhsDMtc5cgbVZbCyf72mN1EBWO1Hb1TQ-8h8aE6TIiw</thumbnail>
+	<items>
+-------------------------------------------------------
+	
+-------------------------------------------------------
+	
+-------------------------------------------------------
+
+-------------------------------------------------------
+</items>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>        
+	<name>[COLOR Red]Hindi News[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+
+--------------------------------------------------------
+</items>
+</channel>
+--------------------------------------------------------
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>        
+	<name>[COLOR Lime]Hindi Devotional[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+
+-------------------------------------------------------
+</items>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>        
+	<name>[COLOR Lime]Hindi Entertainment[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+
+-------------------------------------
+</items>
+</channel>
+--------------------------------------------------------
+</channels>
