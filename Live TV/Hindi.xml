@@ -328,7 +328,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 -------------------------------------------------------
 <item>
 <title>Main Tera Hero</title>
-<link>http://movieshls001-a.erosnow.com/hls/movie/5/1005585/fulllength/6135664/1005585_6135664_IPAD_SD_NEW_multi.m3u8</link><thumbnail>http://images004-a.erosnow.com/movie/5/1005585/img145210/6130529/1005585_6130529_10.jpg</thumbnail>
+<link>http://movieshls001-a.erosnow.com/hls/movie/5/1005585/fulllength/6135664/1005585_6135664_IPAD_SD_NEW_multi.m3u8</link>
+      http://movieshls001-a.erosnow.com/hls/movie/5/1005585/fulllength/6135664/1248/1005585_6135664_640_360_48_1200_6.ts
+<thumbnail>http://images004-a.erosnow.com/movie/5/1005585/img145210/6130529/1005585_6130529_10.jpg</thumbnail>
+</item>
+-------------------------------------
+<item>
+<title>Hero</title>
+<link>http://movieshls001-a.erosnow.com/hls/movie/5/1000325/fulllength/1000325/1000325_1000325_IPAD_SD_NEW_multi.m3u8</link>
+<thumbnail>http://images004-a.erosnow.com/movie/5/1005585/img145210/6130529/1005585_6130529_10.jpg</thumbnail>
 </item>
 -------------------------------------
 </items>
