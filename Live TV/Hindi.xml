@@ -101,7 +101,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>        
-	<name>[COLOR Red]Hindi News[/COLOR]</name>
+	<name>[COLOR red]Hindi News[/COLOR]</name>
 	<thumbnail></thumbnail>
 	<items>
 <item>
@@ -198,7 +198,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>        
-	<name>[COLOR Green]Hindi Movies[/COLOR]</name>
+	<name>[COLOR green]Hindi Movies[/COLOR]</name>
 	<thumbnail></thumbnail>
 	<items>
 -------------------------------------------------------
@@ -215,6 +215,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 --------------------------------------------------------
 <item>
+<title>B4U Movies - link 2</title>
+<link>http://link.dynns.com:1935/iptv/b4umovies/chunklist_w1736990653.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDE1IDk6NTY6MzIgUE0maGFzaF92YWx1ZT1VWGliQTBBQWtmSmtaTXdrdFhadjFnPT0mdmFsaWRtaW51dGVzPTI%3D</link>
+<thumbnail>http://103.250.10.26/image/contenticons/181789_large</thumbnail>
+</item>
+--------------------------------------------------------
+<item>
 <title>Manoranjan TV</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
 <regex>
@@ -227,7 +233,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 --------------------------------------------------------
 <item>
-<title>Manoranjan TV</title>
+<title>Manoranjan TV - Link 2</title>
 <link>http://link.dynns.com:1935/iptv/manoranjan/chunklist_w1932013615.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDE1IDk6NTA6MjggUE0maGFzaF92YWx1ZT0wc3ZFam1WS213a25vVmxLQUw5UlZRPT0mdmFsaWRtaW51dGVzPTI%3D</link>
 <thumbnail>http://103.250.10.26/image/contenticons/2043_large</thumbnail>
 </item>
