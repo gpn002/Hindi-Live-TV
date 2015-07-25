@@ -227,6 +227,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 --------------------------------------------------------
 <item>
+<title>Manoranjan TV</title>
+<link>http://link.dynns.com:1935/iptv/manoranjan/chunklist_w1932013615.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDE1IDk6NTA6MjggUE0maGFzaF92YWx1ZT0wc3ZFam1WS213a25vVmxLQUw5UlZRPT0mdmFsaWRtaW51dGVzPTI%3D</link>
+<thumbnail>http://103.250.10.26/image/contenticons/2043_large</thumbnail>
+</item>
+--------------------------------------------------------
+<item>
 <title>Bolywood Blockbuster</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
 <regex>
