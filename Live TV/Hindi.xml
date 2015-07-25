@@ -106,7 +106,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>        
-	<name>[COLOR red]Hindi News[/COLOR]</name>
+	<name>[COLOR white]Hindi News[/COLOR]</name>
 	<thumbnail></thumbnail>
 	<items>
 -------------------------------------------------------
@@ -262,7 +262,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 --------------------------------------------------------
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>        
-	<name>[COLOR Lime]Hindi Devotional[/COLOR]</name>
+	<name>[COLOR white]Hindi Devotional[/COLOR]</name>
 	<thumbnail></thumbnail>
 	<items>
 -------------------------------------------------------
@@ -320,7 +320,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>        
-	<name>[COLOR Lime]Hindi Entertainment[/COLOR]</name>
+	<name>[COLOR red]Hindi Entertainment[/COLOR]</name>
 	<thumbnail></thumbnail>
 	<items>
 -------------------------------------------------------
