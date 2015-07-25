@@ -10,7 +10,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	<name>[COLOR yellow]Music TV[/COLOR]</name>
 	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyOkd8mXwhsDMtc5cgbVZbCyf72mN1EBWO1Hb1TQ-8h8aE6TIiw</thumbnail>
 	<items>
-
+-------------------------------------------------------
 <item>
 	<title>9XM</title>
 	<link>http://46.249.213.87/iPhone/broadcast/9xm-tablet.3gp/9xm-tablet.3gp-mr655k.m3u8?trackingid=3511520000&amp;os=desktop</link>
@@ -36,12 +36,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	</item>
 -------------------------------------------------------
 <item>
+	<title>M Tunes</title>
+	<link>http://sth.dynns.com:1935/iptv/MtunesHD/chunklist_w1765540558.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDE1IDEwOjAwOjI3IFBNJmhhc2hfdmFsdWU9cHZtUXpZSm9iTkd0RER4VXFnWVR4Zz09JnZhbGlkbWludXRlcz0y</link>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/a/a6/M_Tunes_HD.jpg</thumbnail>
+	</item>
+</items>
+-------------------------------------------------------
+<item>
 	<title>Zing</title>
 	<link>http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp/zing-tablet.3gp-mr648k.m3u8?trackingid=3171370000&os=desktop</link>
 	<thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/zing-logo-1.jpg</thumbnail>
 	</item>
 </items>
--------------------------------------------------------
 -------------------------------------------------------
 <item>
 <title>9XM - Music</title>
