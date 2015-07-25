@@ -18,15 +18,45 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	</item>
 -------------------------------------------------------
 <item>
+<title>9XM - link2</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=183640&amp;parentId=0&amp;name=All%20Channels</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/183640_large</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>9XM - Jalawa</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=183647&parentId=1043&name=Music</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/183647_large</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
 <title>B4U Music</title>
 <link>http://46.249.213.87/iPhone/broadcast/befouryoumusic-tablet.3gp.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://4.bp.blogspot.com/-f5hyhy6Cwyk/UU3r56AKX-I/AAAAAAAAAuU/jRqDukiKugc/s1600/B4U-Music.jpg</thumbnail>
 </item>
 -------------------------------------------------------
 <item>
-<title>Zee Aflam</title>
-<link>http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8?trackingid=3141340000</link>
-<thumbnail>http://4.bp.blogspot.com/-f5hyhy6Cwyk/UU3r56AKX-I/AAAAAAAAAuU/jRqDukiKugc/s1600/B4U-Music.jpg</thumbnail>
+<title>B4U - Music - link 2</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=55469&parentId=1043&name=Music</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/55469_large</thumbnail>
 </item>
 -------------------------------------------------------
 <item>
@@ -43,37 +73,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </items>
 -------------------------------------------------------
 <item>
-	<title>Zing</title>
-	<link>http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp/zing-tablet.3gp-mr648k.m3u8?trackingid=3171370000&os=desktop</link>
-	<thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/zing-logo-1.jpg</thumbnail>
-	</item>
-</items>
--------------------------------------------------------
-<item>
-<title>9XM - Music</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>rtmp = "(.*?)"</expres>
-<page>http://hellotv.in/livetv/play?classid=183640&amp;parentId=0&amp;name=All%20Channels</page>
-<referer>http://hellotv.in</referer>
-</regex>
-<thumbnail>http://103.250.10.26/image/contenticons/183640_large</thumbnail>
-</item>
--------------------------------------------------------
-<item>
-<title>B4U - Music</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>rtmp = "(.*?)"</expres>
-<page>http://hellotv.in/livetv/play?classid=55469&parentId=1043&name=Music</page>
-<referer>http://hellotv.in</referer>
-</regex>
-<thumbnail>http://103.250.10.26/image/contenticons/55469_large</thumbnail>
-</item>
--------------------------------------------------------
-<item>
 <title>Music india</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
 <regex>
@@ -86,18 +85,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 -------------------------------------------------------
 <item>
-<title>9XM - Jalawa</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>rtmp = "(.*?)"</expres>
-<page>http://hellotv.in/livetv/play?classid=183647&parentId=1043&name=Music</page>
-<referer>http://hellotv.in</referer>
-</regex>
-<thumbnail>http://103.250.10.26/image/contenticons/183647_large</thumbnail>
+	<title>Zing</title>
+	<link>http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp/zing-tablet.3gp-mr648k.m3u8?trackingid=3171370000&os=desktop</link>
+	<thumbnail>http://www.ranklogos.com/wp-content/uploads/2012/04/zing-logo-1.jpg</thumbnail>
+	</item>
+</items>
+-------------------------------------------------------
+	<item>
+<title>Zee Aflam</title>
+<link>http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8?trackingid=3141340000</link>
+<thumbnail>http://4.bp.blogspot.com/-f5hyhy6Cwyk/UU3r56AKX-I/AAAAAAAAAuU/jRqDukiKugc/s1600/B4U-Music.jpg</thumbnail>
 </item>
 -------------------------------------------------------
-	
 -------------------------------------------------------
 	
 -------------------------------------------------------
