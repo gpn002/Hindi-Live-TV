@@ -100,7 +100,7 @@
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>        
-	<name>[COLOR yellow]Music TV[/COLOR]</name>
+	<name>[COLOR yellow]List - 1 [/COLOR]</name>
 	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyOkd8mXwhsDMtc5cgbVZbCyf72mN1EBWO1Hb1TQ-8h8aE6TIiw</thumbnail>
 	<items>
 -------------------------------------------------------
@@ -128,36 +128,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 -------------------------------------------------------
 
 -------------------------------------------------------
-</items>
-</channel>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<channel>        
-	<name>[COLOR Red]Hindi News[/COLOR]</name>
-	<thumbnail></thumbnail>
-	<items>
-
---------------------------------------------------------
-</items>
-</channel>
---------------------------------------------------------
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<channel>        
-	<name>[COLOR Lime]Hindi Devotional[/COLOR]</name>
-	<thumbnail></thumbnail>
-	<items>
--------------------------------------------------------
-
--------------------------------------------------------
-</items>
-</channel>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<channel>        
-	<name>[COLOR Lime]Hindi Entertainment[/COLOR]</name>
-	<thumbnail></thumbnail>
-	<items>
--------------------------------------------------------
-
--------------------------------------
 </items>
 </channel>
 --------------------------------------------------------
