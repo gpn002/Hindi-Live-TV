@@ -2,8 +2,6 @@
 ########################################################
 #
 <channels>
-
-
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>        
@@ -64,13 +62,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	<link>rtmp://cp133304.live.edgefcs.net/live/ swfUrl=http://www.startv.in/flash/liveplayer.swf?cid=8 pageUrl=http://www.startv.in/flash/liveplayer.swf?cid=8 playpath=channelv2@62057 swfVfy=0 live=1 timeout=15</link>
 	<thumbnail>http://1.bp.blogspot.com/--gB1h7TUa68/TtoOyE5s3eI/AAAAAAAABbU/Kl_Et4N5NPY/s400/Channel-V.jpg</thumbnail>
 	</item>
--------------------------------------------------------
-<item>
-	<title>M Tunes</title>
-	<link>http://sth.dynns.com:1935/iptv/MtunesHD/chunklist_w1765540558.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDE1IDEwOjAwOjI3IFBNJmhhc2hfdmFsdWU9cHZtUXpZSm9iTkd0RER4VXFnWVR4Zz09JnZhbGlkbWludXRlcz0y</link>
-	<thumbnail>https://upload.wikimedia.org/wikipedia/en/a/a6/M_Tunes_HD.jpg</thumbnail>
-	</item>
-</items>
 -------------------------------------------------------
 <item>
 <title>Music india</title>
@@ -222,12 +213,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 --------------------------------------------------------
 <item>
-<title>B4U Movies - link 2</title>
-<link>http://link.dynns.com:1935/iptv/b4umovies/chunklist_w1736990653.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDE1IDk6NTY6MzIgUE0maGFzaF92YWx1ZT1VWGliQTBBQWtmSmtaTXdrdFhadjFnPT0mdmFsaWRtaW51dGVzPTI%3D</link>
-<thumbnail>http://103.250.10.26/image/contenticons/181789_large</thumbnail>
-</item>
---------------------------------------------------------
-<item>
 <title>Manoranjan TV</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
 <regex>
@@ -236,12 +221,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <page>http://hellotv.in/livetv/play?classid=2043&parentId=1040&name=Movies</page>
 <referer>http://hellotv.in</referer>
 </regex>
-<thumbnail>http://103.250.10.26/image/contenticons/2043_large</thumbnail>
-</item>
---------------------------------------------------------
-<item>
-<title>Manoranjan TV - Link 2</title>
-<link>http://link.dynns.com:1935/iptv/manoranjan/chunklist_w1932013615.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDE1IDk6NTA6MjggUE0maGFzaF92YWx1ZT0wc3ZFam1WS213a25vVmxLQUw5UlZRPT0mdmFsaWRtaW51dGVzPTI%3D</link>
 <thumbnail>http://103.250.10.26/image/contenticons/2043_large</thumbnail>
 </item>
 --------------------------------------------------------
