@@ -109,6 +109,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	<name>[COLOR red]Hindi News[/COLOR]</name>
 	<thumbnail></thumbnail>
 	<items>
+-------------------------------------------------------
 <item>
         <title>Aajtak</title>
         <link>$doregex[url]</link>
@@ -121,29 +122,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 -------------------------------------------------------
 <item>
-        <title>IBN 7</title>         
-        <link>http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_1_av-b.m3u8?sd=10&play-only=backup&rebase=on live=true</link>
-        <thumbnail>http://upload.wikimedia.org/wikipedia/commons/9/93/IBN7_logo-White_Background.jpg</thumbnail>
-    </item>
--------------------------------------------------------
+<title>Aaj Tak - link2</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=1887&parentId=1041&name=News</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/1887_large</thumbnail>
+</item>
+--------------------------------------------------------
 <item>
-	<title>India TV</title>
-	<link>http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/index_1_av-p.m3u8?sd=10&rebase=on</link>
-	<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQtwDjd0xK2bC8u5LPryGTPZgYVThege__A7-qEI0K8W1OSgDI</thumbnail>
-	</item>
--------------------------------------------------------
-<item>
-	<title>Z News</title>
-	<link>$doregex[url]</link>
-	<regex>
-	<name>url</name>
-	<expres>file: "([^"]*)</expres>
-	<page>http://zeenews.dittotv.com/?header=no</page>
-	<referer>http://zeenews.india.com/live/</referer>
-	</regex>
-	<thumbnail>http://zns.india.com/zn5/images/logo2013.png</thumbnail>
-	</item>
--------------------------------------------------------
+<title>ABP News</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>rtmp = "(.*?)"</expres>
+<page>http://hellotv.in/livetv/play?classid=1890&parentId=1041&name=News</page>
+<referer>http://hellotv.in</referer>
+</regex>
+<thumbnail>http://103.250.10.26/image/contenticons/1890_large</thumbnail>
+</item>
+--------------------------------------------------------
 <item>
 <title>CNBC Awaaz</title>
 <link>$doregex[url]</link>
@@ -162,19 +163,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>http://img4.wikia.nocookie.net/__cb20121113071047/logopedia/images/thumb/7/71/CNBC_Awaaz.png/300px-CNBC_Awaaz.png</thumbnail>
 </item>
 -------------------------------------------------------
+<item>
+        <title>IBN 7</title>         
+        <link>http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_1_av-b.m3u8?sd=10&play-only=backup&rebase=on live=true</link>
+        <thumbnail>http://upload.wikimedia.org/wikipedia/commons/9/93/IBN7_logo-White_Background.jpg</thumbnail>
+    </item>
 -------------------------------------------------------
 <item>
-<title>Aaj Tak</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>rtmp = "(.*?)"</expres>
-<page>http://hellotv.in/livetv/play?classid=1887&parentId=1041&name=News</page>
-<referer>http://hellotv.in</referer>
-</regex>
-<thumbnail>http://103.250.10.26/image/contenticons/1887_large</thumbnail>
-</item>
---------------------------------------------------------
+	<title>India TV</title>
+	<link>http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/index_1_av-p.m3u8?sd=10&rebase=on</link>
+	<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQtwDjd0xK2bC8u5LPryGTPZgYVThege__A7-qEI0K8W1OSgDI</thumbnail>
+	</item>
+-------------------------------------------------------
 <item>
 <title>NDTV Hindi</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
@@ -188,17 +188,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 --------------------------------------------------------
 <item>
-<title>ABP News</title>
-<link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>rtmp = "(.*?)"</expres>
-<page>http://hellotv.in/livetv/play?classid=1890&parentId=1041&name=News</page>
-<referer>http://hellotv.in</referer>
-</regex>
-<thumbnail>http://103.250.10.26/image/contenticons/1890_large</thumbnail>
-</item>
---------------------------------------------------------
+	<title>Z News</title>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>file: "([^"]*)</expres>
+	<page>http://zeenews.dittotv.com/?header=no</page>
+	<referer>http://zeenews.india.com/live/</referer>
+	</regex>
+	<thumbnail>http://zns.india.com/zn5/images/logo2013.png</thumbnail>
+	</item>
+-------------------------------------------------------
+
+-------------------------------------------------------
 </items>
 </channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -313,16 +315,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
         	<link>rtmp://50.7.175.252/base2 playpath=dd20.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-natioanl/ token=Vu4KaBzaxa live=1</link>
         	<thumbnail>http://www.dddirect.info/media/2011/08/Sanskar-TV.jpg</thumbnail>
     		</item>
--------------------------------------------------------
-<item>
-<title>Shemaroo</title>
-<link>$doregex[showyoutube]</link>
-<regex>
-<name>showyoutube</name>
-<expres>$pyFunction:xbmc.executebuiltin('ActivateWindow(10025,&quot;plugin://plugin.video.youtube/channel/UCBOmfqgTZi7yDp4-3Lr_3lA/&quot;,return)')</expres>
-<page></page>
-</regex>
-</item>
 -------------------------------------------------------
 </items>
 </channel>
