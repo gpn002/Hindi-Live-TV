@@ -8,6 +8,19 @@
 	<items>
 -------------------------------------------------------
 <item>
+<title>3-Idiots</title>
+<link>$doregex[reg1]</link>
+<regex>
+<name>reg1</name>
+<expres>file:"(.*?)"</expres>
+<page>http://thevideos.tv/embed-oagqjvyba96d-728x410.html</page>
+<referer></referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------
+-------------------------------------------------------
+<item>
 <title>Tevar - 2015</title>
 <link>http://movieshls001-a.erosnow.com/hls/movie/3/1007993/fulllength/6172191/1007993_6172191_IPAD_SD_NEW_multi.m3u8</link>
       <thumbnail>http://images004-a.erosnow.com/music/3/1008483/img145145/6178395/1008483_6178395_100.jpg</thumbnail>
