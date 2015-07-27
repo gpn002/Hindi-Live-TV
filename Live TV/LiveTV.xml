@@ -122,6 +122,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 -------------------------------------------------------
 <item>
+<title>Aajtak</title>
+<link>http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD234_W_250.sdp/playlist.m3u8</link>
+</item>
+-------------------------------------------------------
+<item>
 <title>Aaj Tak - link2</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
 <regex>
