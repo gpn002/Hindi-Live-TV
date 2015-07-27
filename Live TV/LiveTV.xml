@@ -8,6 +8,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	<name>[COLOR yellow]Music TV[/COLOR]</name>
 	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRyOkd8mXwhsDMtc5cgbVZbCyf72mN1EBWO1Hb1TQ-8h8aE6TIiw</thumbnail>
 	<items>
+		
+		 <item>
+        <title>dd national</title>
+        <link>http://109.123.70.24/lon1/mp4:hfujdgbp.stream/playlist.m3u8</link>
+        <thumbnail></thumbnail>
+    </item>
+    
+    
+    
 -------------------------------------------------------
 <item>
 	<title>9XM</title>
