@@ -185,6 +185,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 --------------------------------------------------------
 <item>
+<title>NDTV Prime</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=SIMPLE&amp;url=http://ndtv.live.cdn.bitgravity.com/ndtv/live/ndtvprofitlive256</link>
+</item>
+--------------------------------------------------------
+<item>
+<title>NDTV India</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=SIMPLE&amp;url=http://ndtv.live.cdn.bitgravity.com/ndtv/live/ndtvindialive256</link>
+</item>
+--------------------------------------------------------
+<item>
 	<title>Z News</title>
 	<link>$doregex[url]</link>
 	<regex>
