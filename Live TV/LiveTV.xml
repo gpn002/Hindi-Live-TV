@@ -206,7 +206,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	<thumbnail>http://zns.india.com/zn5/images/logo2013.png</thumbnail>
 	</item>
 -------------------------------------------------------
+<item>
+<title>NDTV Profit / Prime</title>
+<link>http://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/testmultibitrate.smil/playlist.m3u8</link>
+</item>
 
+<item>
+<title>NDTV India</title>
+<link>http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtvindialive.smil/playlist.m3u8</link>
+</item>
+
+<item>
+<title>NDTV Goodtimes</title>
+<link>http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b3/_definst_/ndtv/live/ndtvgoodtime.smil/playlist.m3u8</link>
+</item>
 -------------------------------------------------------
 </items>
 </channel>
