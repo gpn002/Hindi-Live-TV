@@ -251,6 +251,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 	<items>
 -------------------------------------------------------
 <item>
+<title>Mbc2</title>
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://iptv-planet.com/swfs/player.swf live=1 timeout=15 pageUrl=http://iptv-planet.com/mbcbw.php</link>
+<regex>
+<name>rtmp</name>
+<expres>streamer="(.*?)"</expres>
+<page>http://iptv-planet.com/mbcbw.php</page>
+<referer>http://iptv-planet.com</referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://iptv-planet.com/mbcbw.php</page>
+<referer>http://iptv-planet.com</referer>
+</regex>
+</item>
+-------------------------------------------------------
+<item>
 <title>B4U Movies</title>
 <link>plugin://plugin.video.f4mTester/?url=$doregex[url]</link>
 <regex>
