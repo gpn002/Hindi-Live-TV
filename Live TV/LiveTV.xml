@@ -1,3 +1,186 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<code>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 ########################################################
 #
+<channels>
+
+<channel>        
+	<name>[COLOR yellow]News[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+<item>
+<title>aajtak</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/aajtak.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>ibn7</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/ibn7.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>abpnews</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/abpnews.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>indiatv</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/indiatv.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>ddnews</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/ddnews.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>delhiaajtak</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/delhiaajtak.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>tez</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/tez.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>zsalam</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/zsalam.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>ibnlokmat</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/ibnlokmat.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+</items>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>        
+	<name>[COLOR white]Movies[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+<item>
+<title>enter10</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/enter10.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>stargold</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/stargold.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>zee-cinema</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/zee-cinema.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>setmax</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/setmax.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>sahara-filmy</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/sahara-filmy.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+</items>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>        
+	<name>[COLOR lime]Music[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+<item>
+<title>enter10</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/enter10.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>stargold</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/stargold.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>zee-cinema</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/zee-cinema.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>setmax</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/setmax.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>sahara-filmy</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/sahara-filmy.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+</items>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>        
+	<name>[COLOR red]......[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+</items>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>        
+	<name>[COLOR blue].....[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+-------------------------------------------------------
+</items>
+</channel>
+--------------------------------------------------------
+</channels>
+</Code>
